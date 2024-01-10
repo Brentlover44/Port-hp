@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Navigation Bar</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Rachel Miller </a></li>
+            <li><a href="https://necessary-takeaways-923039.framer.app/about-me">About</a></li>
+            <li><a href="https://docs.google.com/document/d/1DTnt0qKO4tf4HK7WJDsLFf4E20BwgK_zPfh6KhoPooY/edit">Resume</a></li>
+            <li><a href="https://necessary-takeaways-923039.framer.app/">Work</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+
+<h1>Hi, I’m Rachel, a product designer 
+  that has outstanding taste in art.</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Case Study</title>
+</head>
+<body>
+    <div class="case-study-container">
+        <header>
+            <h1>Bunny World Foundation</h1>
+            <p>2023</p>
+        </header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Image Box</title>
+</head>
+<body>
+    <div class="image-box">
+        <img src="Screenshot 2024-01-09 12.45.03 PM" alt="Bunny World Foundations">
+        <div class="image-text">
+           
+        </div>
+    </div>
+</body>
+</html>
+
+        <section class="overview">
+            <h2>Overview</h2>
+            <p>The redesign of a non-profit website to save bunnies that were being sold illegally 
+
+and spread awareness about them, selling them but also adopting them. 
+
+</p>
+     
+    </div>
+</body>
+</html>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Loop</title>
+</head>
+<body>
+    <div class="case-study-container">
+        <header>
+            <h1>Loop</h1>
+            <p>2023</p>
+        </header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Image Box</title>
+</head>
+<body>
+    <div class="image-box">
+        <img src="Screenshot 2024-01-09 12.46.47 PM" alt="Loop">
+        <div class="image-text">
+            
+        </div>
+    </div>
+</body>
+</html>
+
+        <section class="overview">
+            <h2>Overview</h2>
+            <p>Loop is an app designed to pay before you park in public parking spaces, where Busy places have limited options for parking.</p>
+     
+    </div>
+</body>
+</html>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>TAV</title>
+</head>
+<body>
+    <div class="case-study-container">
+        <header>
+            <h1>TAV</h1>
+            <p>2023</p>
+        </header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Image Box</title>
+</head>
+<body>
+    <div class="image-box">
+        <img src="Screenshot 2024-01-09 12.46.32 PM" alt="TAV">
+        <div class="image-text">
+            
+        </div>
+    </div>
+</body>
+</html>
+
+        <section class="overview">
+            <h2>Overview</h2>
+            <p>TAV is an app design where you can easily decide what activities to do in a group of people wanting to travel and also budget for easy planning</p>
+     
+    </div>
+</body>
+</html>
+
+    <footer>
+        <!--Contact-->
+        <h2 class="margin-bottom_five">About</h2>
+        <p>Hello, let me tell you a little bit about myself. I enjoy creating art occasionally, and you can see my work throughout. I'm also occasionally interested in fashion and creating small pieces of clothing. Please get in touch with me if you want to collaborate.
+
+</p>
+        <a class="link" href="mailto:Racheldm421@gmail.com" target="blank">Racheldm421@gmail.com</a>
+        <a class="link" href="tel:https://www.linkedin.com/404/">Linkdin</a>
+
+        <!--Copyright-->
+        <p class="copyright">&copy; 2024 Rachel Miller. All Rights Reserved</p>
+    </footer>
+
+  </body>
+</html>
+
+//** Css **//
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333; /* Set the background color of the nav bar */
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Clear floats and create a new block formatting context */
+}
+
+li {
+    float: left; /* Make list items float horizontally */
+}
+
+
+a {
+    display: block;
+    color: white; /* Set the text color */
+    text-align: center; /* Center the text within the link */
+    padding: 14px 16px; /* Add padding to the links for better spacing */
+    text-decoration: none; /* Remove underlines from links */
+}
+
+a:hover {
+    background-color: #555; /* Change the background color on hover */
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.case-study-container {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+p {
+    color: #666;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.image-box {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-text {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+
+footer {
+    background-color: lightgrey;
+    text-align: right;
+    padding: 40px;
+}
+
+.copyright {
+    font-size: 10px;
+    margin-top: 30px;
+}
+
